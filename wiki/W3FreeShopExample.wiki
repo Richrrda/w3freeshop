@@ -3,6 +3,6 @@
 
 = Bemutató oldal  =
 
-A webaruhaz.gtportal.eu webhelyen kipróbálható a webáruház működés közben.
+A [http://webaruhaz.gtportal.eu/] webhelyen kipróbálható a webáruház működés közben.
 
 http://webaruhaz.gtportal.eu/kepek/kezdolap3.png
